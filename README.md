@@ -20,3 +20,10 @@
 #### Fibonacci  Series 
 
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/0afe3a21-63c9-430f-af99-975a1749d704)
+
+## Labs for Pipelined 
+
+### Pythogorous theorm
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/3d3a4ba2-353b-437b-b3b9-5885177c04b9)
+
