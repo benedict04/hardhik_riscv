@@ -2,7 +2,6 @@
 
 ## Labs for combinational circuits
 
-
 ### Inverter
 
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/9aca40b3-54af-4428-ab89-588d1993bdd1)
@@ -16,6 +15,9 @@
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/52c954b2-e19b-4d73-a601-382ab78427d8)
 
 ## Labs for sequential circuits
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/c5d261a2-ed9a-48d0-96a5-a53b4b3a008e)
+
 
 #### Fibonacci  Series 
 
