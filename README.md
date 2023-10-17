@@ -16,7 +16,15 @@
 
 ## Labs for sequential circuits
 
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/e1c1f6a7-cded-42df-bb7d-36c4e4a79cde)
+
+
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/c5d261a2-ed9a-48d0-96a5-a53b4b3a008e)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/ba0491d1-137a-43a6-9cc2-2e1b9d295080)
+
 
 
 #### Fibonacci  Series 
