@@ -48,5 +48,32 @@
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/3ef6b1ae-26e5-46be-ad7c-9ef98f1d99ac)
 
 
+### Counter and Calculator in a Pipeline
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/b80a1164-ca5f-40a1-a370-94986111449f)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/e01d5062-3b5c-423a-aa61-f4dd905acff1)
+
+
+### 2-cycle calculator
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/43f6c642-1a07-480d-917c-e348afc55088)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/e515d387-ff2b-4542-a04f-9a3f0f193fb9)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/40b38bfb-fd2b-4083-b4bf-907e71de7596)
+
+
+## VALIDITY
+
+### LABS
+
+
+
+
 
 
