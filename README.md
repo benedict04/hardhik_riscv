@@ -37,3 +37,16 @@
 
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/3d3a4ba2-353b-437b-b3b9-5885177c04b9)
 
+#### with pipeline
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/49b2c040-da2f-4fc2-9be1-af6dfd7852c8)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/d09fa262-6f21-447b-ae43-e4e6b14d7a7d)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/3ef6b1ae-26e5-46be-ad7c-9ef98f1d99ac)
+
+
+
+
