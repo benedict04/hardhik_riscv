@@ -72,6 +72,103 @@
 
 ### LABS
 
+#### Distance accumulator
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/eef905d9-4be8-4fcb-8872-926f8ac0cfd1)
+
+
+#### 2-cycle calculator with validity
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/4b1d6ac8-c971-441b-9b97-12d12c22cf86)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/0f936356-8995-41f1-a730-08d1b2b3326e)
+
+#### calculator with single memory
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/b24562df-08b2-475c-b1c9-2a7426f9c8db)
+
+
+## DAY 4
+
+### Program Counter
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/49937dc3-a6bf-4613-a95f-36246ea11f3a)
+
+
+### Instructon Fetch
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/d8bafca9-cdff-40ec-9e3e-f04c4c04764d)
+
+
+### Instruction Decode
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/47520a74-a5f5-4949-80a3-33c7879b1964)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/c718233a-c518-4711-bb10-a6ae9427500e)
+
+
+### Instruction Decode with validity
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/7eba5a01-d334-45e6-962d-83c567f94709)
+
+### RISCV control logic
+
+#### Register file
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/6dcaedad-c247-4599-9fd3-c5699030932a)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/aab36bf3-3920-482b-a186-41c7c46d7e65)
+
+
+#### ALU
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/6a8a817e-09ab-47d2-bcc0-42de45ce39b9)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/ce77956a-c5ed-4d81-bbdd-8dbd1fd8ad17)
+
+#### Register file write
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/11ba3cd2-c922-41ea-927a-a0eccd2e95eb)
+
+
+#### Branch Instructions
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/1b5d09ab-f2f4-41e1-ba36-9a2c74cf2888)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/dc6366d2-2567-453f-8c21-e2e0b6b3b8e4)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/e2fe1a3b-9813-4127-9a12-4118e2bfe71b)
+
+
+#### Testbench
+
+## DAY 5
+
+### 3 cycle RISCV
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/df5c56d5-618a-43cc-a012-6da698389e7c)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/49862ec6-4a64-4812-82ba-f3449964c067)
+
+#### Dealing with invalid cycles
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/5d461753-44cd-457b-af7a-e0c748624f7d)
+
+
+#### Modify 3-cycle RISCV to Distributive logic
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/dd0e2cf5-15c3-4d32-8a3c-0f08a833a47b)
+
 
 
 
