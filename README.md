@@ -170,6 +170,42 @@
 ![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/dd0e2cf5-15c3-4d32-8a3c-0f08a833a47b)
 
 
+### Solutions to Pipeline Hazards
+
+#### Register File Bypass
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/9dc8a450-5e4f-43cd-a401-7ed4115d11dc)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/cba45d8c-cc13-45ad-81aa-f2072295849d)
+
+
+#### To correct branch target path
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/99c09f11-6e8e-4aa9-b433-fa4acea8f2ba)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/da0c50ef-59ea-43e9-8480-0de4b3ea6239)
+
+
+### Complete Inatruction Decode
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/e3bc2fa2-d476-4975-ab82-2b13b44706a1)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/4da530bd-9fad-487f-a95f-f76a7d3f76e3)
+
+
+### Complete ALU
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/fbdd2af9-b531-4e07-95c1-7b09171347a3)
+
+
+![image](https://github.com/benedict04/hardhik_riscv/assets/109859485/b3eade22-20eb-4b01-900b-46d60e1dcaee)
+
+
 
 
 
